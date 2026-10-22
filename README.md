@@ -218,4 +218,4 @@ Zello is available as a **complete free version** with all features and updates 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-22 18:20:16 UTC
+**Last updated:** 2026-10-22 22:08:37 UTC
